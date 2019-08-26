@@ -5,7 +5,7 @@ any player or team, I still enjoy watching world cup and buying sport lotteries.
 
 ## Dataset
 
-This soccer database comes from Kaggle and is well suited for data analysis and machine learning. Itcontains data for soccer matches, players, and teams from several European countries from 2008 to 2016. https://www.kaggle.com/hugomathien/soccer
+This soccer database comes from Kaggle and is well suited for data analysis and machine learning. Itcontains data for soccer matches, players, and teams from several European countries from 2008 to 2016. https://www.kaggle.com/hugomathien/soccer <br>
 ● The database is stored in a SQLite database. <br>
 ● I used SQL to access data and look at how the dierent tables relate to each other. <br>
 
